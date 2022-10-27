@@ -1,0 +1,154 @@
+[
+    {
+        "display_name": "Baily 21",
+        "epic_id": "c70e7a88ca35421393e576c7bdb8edc8",
+        "stage_position": 90,
+        "alive": true,
+        "knocked": false,
+        "eliminations": 0,
+        "character_map": {
+            "orgName": "Baily 21",
+            "parsedName": "Baily 21",
+            "characterMaps": [
+                {
+                    "index": 0,
+                    "type": "latin",
+                    "characters": "Baily 21"
+                }
+            ]
+        }
+    },
+    {
+        "display_name": "33 ED LE GANA",
+        "epic_id": "be98f1a471c44f7f939edac26d599b20",
+        "stage_position": 92,
+        "alive": false,
+        "knocked": false,
+        "eliminations": 0,
+        "character_map": {
+            "orgName": "33 ED LE GANA",
+            "parsedName": "33 ED LE GANA",
+            "characterMaps": [
+                {
+                    "index": 0,
+                    "type": "latin",
+                    "characters": "33 ED LE GANA"
+                }
+            ]
+        }
+    },
+    {
+        "display_name": "BL MrSavage -_-",
+        "epic_id": "9032a26b8a7845dd991841581182a1dd",
+        "stage_position": 93,
+        "alive": true,
+        "knocked": false,
+        "eliminations": 12,
+        "character_map": {
+            "orgName": "BL MrSavage -_-",
+            "parsedName": "BL MrSavage -_-",
+            "characterMaps": [
+                {
+                    "index": 0,
+                    "type": "latin",
+                    "characters": "BL MrSavage -_-"
+                }
+            ]
+        }
+    },
+    {
+        "display_name": "apeks IDrop 7",
+        "epic_id": "2b3da27c62d14887bd6daa865df33487",
+        "stage_position": 94,
+        "alive": true,
+        "knocked": false,
+        "eliminations": 17,
+        "character_map": {
+            "orgName": "apeks IDrop 7",
+            "parsedName": "apeks IDrop 7",
+            "characterMaps": [
+                {
+                    "index": 0,
+                    "type": "latin",
+                    "characters": "apeks IDrop 7"
+                }
+            ]
+        }
+    },
+    {
+        "display_name": "Grolzz",
+        "epic_id": "3f206d1f7030431b958ae369c4707014",
+        "stage_position": 95,
+        "alive": true,
+        "knocked": true,
+        "eliminations": 1,
+        "character_map": {
+            "orgName": "Grolzz",
+            "parsedName": "Grolzz",
+            "characterMaps": [
+                {
+                    "index": 0,
+                    "type": "latin",
+                    "characters": "Grolzz"
+                }
+            ]
+        }
+    },
+    {
+        "display_name": "siko rifty 33",
+        "epic_id": "270963377c6e40aebf86c3e3b316cfb4",
+        "stage_position": 96,
+        "alive": false,
+        "knocked": false,
+        "eliminations": 32,
+        "character_map": {
+            "orgName": "siko rifty 33",
+            "parsedName": "siko rifty 33",
+            "characterMaps": [
+                {
+                    "index": 0,
+                    "type": "latin",
+                    "characters": "siko rifty 33"
+                }
+            ]
+        }
+    },
+    {
+        "display_name": "NSTAR RORILLA 46",
+        "epic_id": "980acb394091440799af3c2378590ba7",
+        "stage_position": 97,
+        "alive": false,
+        "knocked": false,
+        "eliminations": 0,
+        "character_map": {
+            "orgName": "NSTAR RORILLA 46",
+            "parsedName": "NSTAR RORILLA 46",
+            "characterMaps": [
+                {
+                    "index": 0,
+                    "type": "latin",
+                    "characters": "NSTAR RORILLA 46"
+                }
+            ]
+        }
+    },
+    {
+        "display_name": "wox 555",
+        "epic_id": "3acf97a254a0469ca39a30030d6d752d",
+        "stage_position": 98,
+        "alive": true,
+        "knocked": false,
+        "eliminations": 14,
+        "character_map": {
+            "orgName": "wox 555",
+            "parsedName": "wox 555",
+            "characterMaps": [
+                {
+                    "index": 0,
+                    "type": "latin",
+                    "characters": "wox 555"
+                }
+            ]
+        }
+    }
+]
