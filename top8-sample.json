@@ -4,7 +4,7 @@
         "epic_id": "c70e7a88ca35421393e576c7bdb8edc8",
         "stage_position": 90,
         "alive": true,
-        "knocked": false,
+        "knocked": true,
         "eliminations": 0,
         "character_map": {
             "orgName": "Baily 21",
@@ -41,7 +41,7 @@
         "display_name": "BL MrSavage -_-",
         "epic_id": "9032a26b8a7845dd991841581182a1dd",
         "stage_position": 93,
-        "alive": true,
+        "alive": false,
         "knocked": false,
         "eliminations": 12,
         "character_map": {
