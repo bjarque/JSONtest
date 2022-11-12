@@ -4,8 +4,8 @@
         "epic_id": "c70e7a88ca35421393e576c7bdb8edc8",
         "stage_position": 90,
         "alive": true,
-        "knocked": true,
-        "eliminations": 0,
+        "knocked": false,
+        "eliminations": 2,
         "character_map": {
             "orgName": "Baily 21",
             "parsedName": "Baily 21",
